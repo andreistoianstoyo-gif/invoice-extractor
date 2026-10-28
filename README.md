@@ -3,7 +3,7 @@
 An AI model reads the key fields from invoices (PDF or image); you review and correct the table
 and download a clean Excel file.
 
-**Live demo:** _add your Streamlit link here_
+**Live demo:**(https://invoice-extractor-qdmsjpyornunbzzdh9dxxa.streamlit.app/)
 
 ![screenshot](screenshot.png)
 
