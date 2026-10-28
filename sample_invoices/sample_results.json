@@ -1,0 +1,118 @@
+[
+  {
+    "source_file": "invoice_01_en.pdf",
+    "supplier_name": "Brightfield Office Supplies Ltd",
+    "supplier_tax_id": "GB000000001",
+    "invoice_number": "BF-2026-0412",
+    "invoice_date": "2026-09-03",
+    "due_date": "2026-10-03",
+    "currency": "GBP",
+    "subtotal": 283.5,
+    "vat_amount": 56.7,
+    "total": 340.2,
+    "line_items": [
+      {
+        "description": "A4 copy paper (box of 5 reams)",
+        "quantity": 5.0,
+        "unit_price": 24.5,
+        "line_total": 122.5
+      },
+      {
+        "description": "Ink cartridge, black",
+        "quantity": 4.0,
+        "unit_price": 31.25,
+        "line_total": 125.0
+      },
+      {
+        "description": "Desk organiser",
+        "quantity": 2.0,
+        "unit_price": 18.0,
+        "line_total": 36.0
+      }
+    ]
+  },
+  {
+    "source_file": "invoice_02_en.pdf",
+    "supplier_name": "Harbor & Pine Consulting Ltd",
+    "supplier_tax_id": "IE0000001A",
+    "invoice_number": "HP-1087",
+    "invoice_date": "2026-08-21",
+    "due_date": "2026-09-20",
+    "currency": "EUR",
+    "subtotal": 2150.0,
+    "vat_amount": 494.5,
+    "total": 2644.5,
+    "line_items": [
+      {
+        "description": "Data audit workshop (days)",
+        "quantity": 2.0,
+        "unit_price": 850.0,
+        "line_total": 1700.0
+      },
+      {
+        "description": "Report preparation",
+        "quantity": 1.0,
+        "unit_price": 450.0,
+        "line_total": 450.0
+      }
+    ]
+  },
+  {
+    "source_file": "invoice_03_ro.pdf",
+    "supplier_name": "Alfa Tehnic Servicii SRL",
+    "supplier_tax_id": "RO00000001",
+    "invoice_number": "ATS-00231",
+    "invoice_date": "2026-10-02",
+    "due_date": "2026-10-16",
+    "currency": "RON",
+    "subtotal": 1800.0,
+    "vat_amount": 378.0,
+    "total": 2178.0,
+    "line_items": [
+      {
+        "description": "Mentenanță echipamente",
+        "quantity": 1.0,
+        "unit_price": 1200.0,
+        "line_total": 1200.0
+      },
+      {
+        "description": "Piese de schimb",
+        "quantity": 6.0,
+        "unit_price": 85.0,
+        "line_total": 510.0
+      },
+      {
+        "description": "Transport",
+        "quantity": 1.0,
+        "unit_price": 90.0,
+        "line_total": 90.0
+      }
+    ]
+  },
+  {
+    "source_file": "invoice_04_ro.pdf",
+    "supplier_name": "Delta Print Grup SRL",
+    "supplier_tax_id": "RO00000002",
+    "invoice_number": "DP-7714",
+    "invoice_date": "2026-09-15",
+    "due_date": "2026-09-29",
+    "currency": "RON",
+    "subtotal": 1350.0,
+    "vat_amount": 283.5,
+    "total": 1663.5,
+    "line_items": [
+      {
+        "description": "Flyere A5 (bucăți)",
+        "quantity": 2000.0,
+        "unit_price": 0.45,
+        "line_total": 900.0
+      },
+      {
+        "description": "Bannere",
+        "quantity": 3.0,
+        "unit_price": 150.0,
+        "line_total": 450.0
+      }
+    ]
+  }
+]

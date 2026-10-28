@@ -1,0 +1,2 @@
+# Doar pentru generate_sample_invoices.py (nu e nevoie pe Streamlit Cloud)
+reportlab

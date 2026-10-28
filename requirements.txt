@@ -1,0 +1,6 @@
+streamlit
+pandas
+openpyxl
+# Doar daca activezi modul Live (ENABLE_LIVE = True in app.py), adauga si:
+# anthropic
+# python-dotenv
